@@ -10,3 +10,4 @@ Demo attack:
 - Avoid.sol: Ngăn chặn đưa dữ liệu bí mất lên onchail
 - Physing.sol: lưu ý khi sử dụng tx.origin
 - Random.sol: Lỗ hổng trong random số học
+- Selfdestruct: ví dụ 1 trường hợp khi tấn công khi sử dụng selfdestruct
